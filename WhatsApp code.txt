@@ -9,3 +9,5 @@ Name : SrihariniBaskaran
 3. Last seen code
 
 4. Attachments (image, vedio, audio) code
+
+5. Hiding the last seen
