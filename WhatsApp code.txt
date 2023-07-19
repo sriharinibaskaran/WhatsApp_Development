@@ -11,3 +11,7 @@ Name : SrihariniBaskaran
 4. Attachments (image, vedio, audio) code
 
 5. Hiding the last seen
+
+6. Adding the vedio call feature
+
+7. Adding the audio call feature
